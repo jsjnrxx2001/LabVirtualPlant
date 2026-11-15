@@ -164,19 +164,12 @@ print("Abnormal evaluation images:", len(abnormal))
 
 ## 8. Image sources and acknowledgments
 
-This dataset was constructed by curating and reorganizing subsets of public leaf-image resources. Source attribution is recorded by crop and condition below. Background appearance was used to organize the curated scene collection; images from a parent dataset may therefore contribute to either scene collection.
+We acknowledge the providers of the original image collections. The links below document the source resources identified for the corresponding subsets; they do not imply that every image in each original dataset is included here.
 
-| Released crop | Upstream source | Included subset |
-|---|---|---|
-| Bottle gourd | [S1](https://data.mendeley.com/datasets/8t6k37ztxc/1) | Healthy and six abnormal categories; released paths retain `Batol_Gourd`. |
-| Cashew | [S2](https://data.mendeley.com/datasets/z6jp232g5j/1) | Healthy, leaf miner, and red rust subsets. |
-| Maize / Corn | [S2](https://data.mendeley.com/datasets/z6jp232g5j/1); [S3](https://www.kaggle.com/datasets/samareshkumar/multipleplantdiseases) | S3 supplies the healthy, gray-leaf-spot, common-rust, and northern-leaf-blight subsets. The released northern-leaf-blight group also includes images matching S2 maize leaf blight. |
-| Lemon | [S4](https://data.mendeley.com/datasets/44nrn4593f/1) | Healthy Leaf and eight non-healthy condition folders; released filenames were renamed. |
-| Papaya | [S1](https://data.mendeley.com/datasets/8t6k37ztxc/1) | Healthy and six abnormal categories. |
-| Tomato | [S2](https://data.mendeley.com/datasets/z6jp232g5j/1) | Healthy, septoria leaf spot, and verticulium wilt subsets. |
-| Zucchini | [S1](https://data.mendeley.com/datasets/8t6k37ztxc/1) | Healthy and eight abnormal categories. |
-
-See [SOURCES.md](SOURCES.md) for original folder mappings, authors, dataset versions, DOI links, license references, and attribution details. [class_sources.csv](class_sources.csv) provides class-level source IDs; [source_examples.csv](source_examples.csv) records the checked image examples. These examples support subset attribution and do not constitute a complete per-image provenance manifest.
+- [Agri-Vision4](https://data.mendeley.com/datasets/8t6k37ztxc/1) — Bottle gourd, papaya, and zucchini.
+- [Multi-Crop Leaf Disease Dataset: Corn, Potato, Rice, Tomato, and Cashew](https://data.mendeley.com/datasets/z6jp232g5j/1) — Cashew, tomato, and a subset of maize leaf-blight images.
+- [Multiple Plant Diseases](https://www.kaggle.com/datasets/samareshkumar/multipleplantdiseases) — Maize subsets.
+- [Comprehensive Lemon Leaf Disease Dataset](https://data.mendeley.com/datasets/44nrn4593f/1) — Lemon subsets.
 
 ## 9. Citation
 
