@@ -1,0 +1,7 @@
+Batol_Gourd_healthy healthy Batol Gourd leaf
+Cashew_healthy healthy Cashew leaf
+Corn_healthy healthy Corn leaf
+Lemon_healthy healthy Lemon leaf
+Papaya_healthy healthy Papaya leaf
+Tomato_healthy healthy Tomato leaf
+Zucchini_healthy healthy Zucchini leaf

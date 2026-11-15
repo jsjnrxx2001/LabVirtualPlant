@@ -1,0 +1,19 @@
+{
+  "input": "C:\\Users\\JSJN2018\\Desktop\\数据集\\labvirtual",
+  "output": "C:\\Users\\JSJN2018\\Desktop\\labvirtual_locoop",
+  "id_classes": 7,
+  "ood_classes": 35,
+  "train_images": 1897,
+  "val_images": 475,
+  "test_images": 475,
+  "ood_images": 8636,
+  "class_to_label": {
+    "Batol_Gourd_healthy": 0,
+    "Cashew_healthy": 1,
+    "Corn_healthy": 2,
+    "Lemon_healthy": 3,
+    "Papaya_healthy": 4,
+    "Tomato_healthy": 5,
+    "Zucchini_healthy": 6
+  }
+}
