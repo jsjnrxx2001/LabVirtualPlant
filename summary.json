@@ -4,7 +4,6 @@
   "id_classes": 7,
   "ood_classes": 35,
   "train_images": 1897,
-  "val_images": 475,
   "test_images": 475,
   "ood_images": 8636,
   "class_to_label": {

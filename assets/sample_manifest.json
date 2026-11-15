@@ -1,0 +1,268 @@
+[
+  {
+    "figure": "samples.jpg",
+    "crop": "Batol_Gourd",
+    "state": "healthy",
+    "path": "train/Batol_Gourd_healthy/IMG_20251119_160810.png"
+  },
+  {
+    "figure": "samples.jpg",
+    "crop": "Batol_Gourd",
+    "state": "abnormal",
+    "class": "Batol_Gourd_Mosaic_Virus",
+    "path": "ood_batol_gourd/Batol_Gourd_Mosaic_Virus/IMG-20241027-WA0900.jpg"
+  },
+  {
+    "figure": "samples.jpg",
+    "crop": "Cashew",
+    "state": "healthy",
+    "path": "train/Cashew_healthy/1 (4).jpg"
+  },
+  {
+    "figure": "samples.jpg",
+    "crop": "Cashew",
+    "state": "abnormal",
+    "class": "Cashew_leaf_miner",
+    "path": "ood_cashew/Cashew_leaf_miner/1 (248).jpg"
+  },
+  {
+    "figure": "samples.jpg",
+    "crop": "Corn",
+    "state": "healthy",
+    "path": "train/Corn_healthy/498.jpg"
+  },
+  {
+    "figure": "samples.jpg",
+    "crop": "Corn",
+    "state": "abnormal",
+    "class": "Corn_Northern_Leaf_Blight",
+    "path": "ood_corn/Corn_Northern_Leaf_Blight/437.jpg"
+  },
+  {
+    "figure": "samples.jpg",
+    "crop": "Lemon",
+    "state": "healthy",
+    "path": "train/Lemon_healthy/958efbb6-2875-5479-a6c4-32399db2c2da.jpg"
+  },
+  {
+    "figure": "samples.jpg",
+    "crop": "Lemon",
+    "state": "abnormal",
+    "class": "Lemon_deficiency",
+    "path": "ood_lemon/Lemon_deficiency/8ba74464-7138-5e4b-9d84-67fd0ef6441c.jpg"
+  },
+  {
+    "figure": "samples.jpg",
+    "crop": "Papaya",
+    "state": "healthy",
+    "path": "train/Papaya_healthy/IMG_20251121_160602.png"
+  },
+  {
+    "figure": "samples.jpg",
+    "crop": "Papaya",
+    "state": "abnormal",
+    "class": "Papaya_Curled_Yellow_Spot",
+    "path": "ood_papaya/Papaya_Curled_Yellow_Spot/papaya (247).png"
+  },
+  {
+    "figure": "samples.jpg",
+    "crop": "Tomato",
+    "state": "healthy",
+    "path": "train/Tomato_healthy/1 (311).jpg"
+  },
+  {
+    "figure": "samples.jpg",
+    "crop": "Tomato",
+    "state": "abnormal",
+    "class": "Tomato_verticulium_wilt",
+    "path": "ood_tomato/Tomato_verticulium_wilt/1 (401).jpg"
+  },
+  {
+    "figure": "samples.jpg",
+    "crop": "Zucchini",
+    "state": "healthy",
+    "path": "train/Zucchini_healthy/IMG_20241101_171218.png"
+  },
+  {
+    "figure": "samples.jpg",
+    "crop": "Zucchini",
+    "state": "abnormal",
+    "class": "Zucchini_Yellow_Mosaic_Virus",
+    "path": "ood_zucchini/Zucchini_Yellow_Mosaic_Virus/IMG_20241101_165728.png"
+  },
+  {
+    "figure": "abnormal_categories.jpg",
+    "class": "Batol_Gourd_Alternaria_Leaf_Blight",
+    "path": "ood_batol_gourd/Batol_Gourd_Alternaria_Leaf_Blight/IMG-20241030-WA0034 (1).jpg"
+  },
+  {
+    "figure": "abnormal_categories.jpg",
+    "class": "Batol_Gourd_Anthracnose",
+    "path": "ood_batol_gourd/Batol_Gourd_Anthracnose/IMG-20241030-WA0057 (1).jpg"
+  },
+  {
+    "figure": "abnormal_categories.jpg",
+    "class": "Batol_Gourd_Downy_Mildew",
+    "path": "ood_batol_gourd/Batol_Gourd_Downy_Mildew/IMG_20251108_160753.png"
+  },
+  {
+    "figure": "abnormal_categories.jpg",
+    "class": "Batol_Gourd_Early_Alternaria_Leaf_Blight",
+    "path": "ood_batol_gourd/Batol_Gourd_Early_Alternaria_Leaf_Blight/IMG-20241030-WA0054(1).jpg"
+  },
+  {
+    "figure": "abnormal_categories.jpg",
+    "class": "Batol_Gourd_Fungal_Damage_Leaf",
+    "path": "ood_batol_gourd/Batol_Gourd_Fungal_Damage_Leaf/IMG-20241027-WA0696.jpg"
+  },
+  {
+    "figure": "abnormal_categories.jpg",
+    "class": "Batol_Gourd_Mosaic_Virus",
+    "path": "ood_batol_gourd/Batol_Gourd_Mosaic_Virus/IMG-20241027-WA0900.jpg"
+  },
+  {
+    "figure": "abnormal_categories.jpg",
+    "class": "Cashew_leaf_miner",
+    "path": "ood_cashew/Cashew_leaf_miner/1 (248).jpg"
+  },
+  {
+    "figure": "abnormal_categories.jpg",
+    "class": "Cashew_red_rust",
+    "path": "ood_cashew/Cashew_red_rust/1 (189).jpg"
+  },
+  {
+    "figure": "abnormal_categories.jpg",
+    "class": "Corn_Cercospora_leaf_spot_Gray_leaf_spot",
+    "path": "ood_corn/Corn_Cercospora_leaf_spot_Gray_leaf_spot/33.jpg"
+  },
+  {
+    "figure": "abnormal_categories.jpg",
+    "class": "Corn_Common_rust",
+    "path": "ood_corn/Corn_Common_rust/462.jpg"
+  },
+  {
+    "figure": "abnormal_categories.jpg",
+    "class": "Corn_Northern_Leaf_Blight",
+    "path": "ood_corn/Corn_Northern_Leaf_Blight/437.jpg"
+  },
+  {
+    "figure": "abnormal_categories.jpg",
+    "class": "Lemon_anthracnose",
+    "path": "ood_lemon/Lemon_anthracnose/5e828128-bcf0-5075-bc21-865aab4aa174.jpg"
+  },
+  {
+    "figure": "abnormal_categories.jpg",
+    "class": "Lemon_bacterial_blight",
+    "path": "ood_lemon/Lemon_bacterial_blight/83a871a9-5d83-58a8-885e-c94b157a95a7.jpg"
+  },
+  {
+    "figure": "abnormal_categories.jpg",
+    "class": "Lemon_citrus_canker",
+    "path": "ood_lemon/Lemon_citrus_canker/b5cbca59-73b9-5a20-9f61-3c28ef0a14af.jpg"
+  },
+  {
+    "figure": "abnormal_categories.jpg",
+    "class": "Lemon_curl_virus",
+    "path": "ood_lemon/Lemon_curl_virus/8e9d0213-49e7-544d-bb41-e8064fd3b608.jpg"
+  },
+  {
+    "figure": "abnormal_categories.jpg",
+    "class": "Lemon_deficiency",
+    "path": "ood_lemon/Lemon_deficiency/8ba74464-7138-5e4b-9d84-67fd0ef6441c.jpg"
+  },
+  {
+    "figure": "abnormal_categories.jpg",
+    "class": "Lemon_dry_leaf",
+    "path": "ood_lemon/Lemon_dry_leaf/63f27fe4-a80a-510f-97c2-12f7af05ed62.jpg"
+  },
+  {
+    "figure": "abnormal_categories.jpg",
+    "class": "Lemon_sooty_mould",
+    "path": "ood_lemon/Lemon_sooty_mould/61dd9aed-97f2-54e8-b4b8-8c07bfe89a61.jpg"
+  },
+  {
+    "figure": "abnormal_categories.jpg",
+    "class": "Lemon_spider_mites",
+    "path": "ood_lemon/Lemon_spider_mites/7c507d7d-4fff-5712-94b5-851776582945.jpg"
+  },
+  {
+    "figure": "abnormal_categories.jpg",
+    "class": "Papaya_Bacterial_Blight",
+    "path": "ood_papaya/Papaya_Bacterial_Blight/_DSC7639.png"
+  },
+  {
+    "figure": "abnormal_categories.jpg",
+    "class": "Papaya_Carica_Insect_Hole",
+    "path": "ood_papaya/Papaya_Carica_Insect_Hole/_DSC6741.png"
+  },
+  {
+    "figure": "abnormal_categories.jpg",
+    "class": "Papaya_Curled_Yellow_Spot",
+    "path": "ood_papaya/Papaya_Curled_Yellow_Spot/papaya (247).png"
+  },
+  {
+    "figure": "abnormal_categories.jpg",
+    "class": "Papaya_Mosaic_Virus",
+    "path": "ood_papaya/Papaya_Mosaic_Virus/papaya (465).png"
+  },
+  {
+    "figure": "abnormal_categories.jpg",
+    "class": "Papaya_Pathogen_symptoms",
+    "path": "ood_papaya/Papaya_Pathogen_symptoms/IMG-20241027-WA0380-removebg-preview(1).png"
+  },
+  {
+    "figure": "abnormal_categories.jpg",
+    "class": "Papaya_Yellow_Necrotic_Spots_Holes",
+    "path": "ood_papaya/Papaya_Yellow_Necrotic_Spots_Holes/IMG-20241027-WA0397-removebg-preview.png"
+  },
+  {
+    "figure": "abnormal_categories.jpg",
+    "class": "Tomato_septoria_leaf_spot",
+    "path": "ood_tomato/Tomato_septoria_leaf_spot/1 (423).jpg"
+  },
+  {
+    "figure": "abnormal_categories.jpg",
+    "class": "Tomato_verticulium_wilt",
+    "path": "ood_tomato/Tomato_verticulium_wilt/1 (401).jpg"
+  },
+  {
+    "figure": "abnormal_categories.jpg",
+    "class": "Zucchini_Angular_Leaf_Spot",
+    "path": "ood_zucchini/Zucchini_Angular_Leaf_Spot/IMG_20241026_112727.png"
+  },
+  {
+    "figure": "abnormal_categories.jpg",
+    "class": "Zucchini_Anthracnose",
+    "path": "ood_zucchini/Zucchini_Anthracnose/1730464010417.png"
+  },
+  {
+    "figure": "abnormal_categories.jpg",
+    "class": "Zucchini_Downy_Midew",
+    "path": "ood_zucchini/Zucchini_Downy_Midew/IMG_20241026_113729.png"
+  },
+  {
+    "figure": "abnormal_categories.jpg",
+    "class": "Zucchini_Dry_Leaf",
+    "path": "ood_zucchini/Zucchini_Dry_Leaf/1730464006347.png"
+  },
+  {
+    "figure": "abnormal_categories.jpg",
+    "class": "Zucchini_Insect_Damage",
+    "path": "ood_zucchini/Zucchini_Insect_Damage/IMG_20241101_170556.png"
+  },
+  {
+    "figure": "abnormal_categories.jpg",
+    "class": "Zucchini_Iron_Chlorosis_Damage",
+    "path": "ood_zucchini/Zucchini_Iron_Chlorosis_Damage/IMG_20241026_112038.png"
+  },
+  {
+    "figure": "abnormal_categories.jpg",
+    "class": "Zucchini_Xanthomonas_Leaf_Spot",
+    "path": "ood_zucchini/Zucchini_Xanthomonas_Leaf_Spot/IMG_20241101_170640.png"
+  },
+  {
+    "figure": "abnormal_categories.jpg",
+    "class": "Zucchini_Yellow_Mosaic_Virus",
+    "path": "ood_zucchini/Zucchini_Yellow_Mosaic_Virus/IMG_20241101_165728.png"
+  }
+]
